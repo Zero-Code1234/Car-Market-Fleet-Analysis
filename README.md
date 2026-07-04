@@ -37,4 +37,4 @@ Standardize Fleet Procurement: Focus procurement on Sedan and Hatchback profiles
 
 Prioritize Sustainable Drivetrains: Increase the ratio of non-gasoline vehicles to align with long-term cost reduction and corporate sustainability goals.
 
-Created by [Athiq Sait] | Data Analysis Capstone Project
+Created by Athiq Sait | Data Analysis Capstone Project
